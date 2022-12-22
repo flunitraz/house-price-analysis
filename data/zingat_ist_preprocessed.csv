@@ -1,4 +1,4 @@
-,net_alan,brut_alan,kat_sayisi,isitma,bulundugu_kat,bina_yasi,esya,kullanim_durumu,kredi_durumu,fiyat,il,ilce,mahalle,oda_sayisi,toplam_oda_sayisi,lat,lng
+,net_alan,brut_alan,kredi_durumu,kat_sayisi,isitma,bulundugu_kat,bina_yasi,esya,kullanim_durumu,fiyat,il,ilce,mahalle,oda_sayisi,toplam_oda_sayisi,lat,lng
 0,100,110,1,3,2,3,33,2,0,2750000,İstanbul,Adalar,Heybeliada, 3 + 1 ,4,40.8741659,29.1293251
 1,88,103,1,4,2,2,8,2,2,7500000,İstanbul,Adalar,Nizam, 2 + 1 ,3,40.8741659,29.1293251
 2,100,112,1,4,2,1,8,2,2,7500000,İstanbul,Adalar,Nizam, 2 + 1 ,3,40.8741659,29.1293251
